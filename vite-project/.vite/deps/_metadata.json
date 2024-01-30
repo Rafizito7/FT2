@@ -1,0 +1,49 @@
+{
+  "hash": "80857b56",
+  "configHash": "012a8386",
+  "lockfileHash": "00be1e45",
+  "browserHash": "dc2fbffb",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b97e379e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "0d6155ec",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "e7115e17",
+      "needsInterop": false
+    },
+    "@nivo/treemap": {
+      "src": "../../node_modules/@nivo/treemap/dist/nivo-treemap.es.js",
+      "file": "@nivo_treemap.js",
+      "fileHash": "0b669c65",
+      "needsInterop": false
+    },
+    "@nivo/bar": {
+      "src": "../../node_modules/@nivo/bar/dist/nivo-bar.es.js",
+      "file": "@nivo_bar.js",
+      "fileHash": "c2e148e2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GVRTHUP3": {
+      "file": "chunk-GVRTHUP3.js"
+    },
+    "chunk-UWZXFKA6": {
+      "file": "chunk-UWZXFKA6.js"
+    },
+    "chunk-UPDK7Z2H": {
+      "file": "chunk-UPDK7Z2H.js"
+    }
+  }
+}
